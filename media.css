@@ -1,0 +1,28 @@
+/* 超小屏幕（手机，小于 768px） */
+@media screen and (max-width: 340px){
+	
+}
+@media screen and (min-width: 340px) and (max-width: 768px){
+	
+}
+/* 小屏幕（平板，大于等于 768px） */
+@media screen and (min-width: 769px) and (max-width:992px){
+	
+}
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media screen and (min-width: 993px) and (max-width:1200px){
+	
+}
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media screen and (min-width: 1201px) and (max-width:1366px){
+	
+}
+@media screen and (min-width: 1367px) and (max-width:1550px){
+	
+}
+@media screen and (min-width: 1551px) and (max-width:1920px){
+	
+}
+@media screen and (min-width: 1921px){
+	
+}
